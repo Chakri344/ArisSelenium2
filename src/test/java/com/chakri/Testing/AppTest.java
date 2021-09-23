@@ -1,3 +1,4 @@
+package com.chakri.Testing;
 
 import java.util.Scanner;
 
